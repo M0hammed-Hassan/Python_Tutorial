@@ -5,7 +5,7 @@ These are the codes I've used in my Python tutorial videos on my YouTube channel
 Let's Code Together <>
 --------------
 
-<img src='Images/Cover.png'>Image</img>
+<img src='Images/Cover2.png' alt = 'Why Python'>
 
 
 # First Part: Python Fundamentals 
